@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ssm-crud">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssm_crud</output-path>
+    <root id="root" />
+  </artifact>
+</component>
